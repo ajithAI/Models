@@ -19,7 +19,7 @@ tar -xvzf aclImdb_v1.tar.gz
 ```
 wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d.txt
 ```
-
+<br>
 
 ####  Install other helper python modules
 
