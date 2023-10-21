@@ -49,7 +49,11 @@ wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d
 ####  2. Install other Python helper modules :
 
 ```
-python3 -m pip install --upgrade pip 
+python3 -m pip install --upgrade pip
+```
+```
 pip3 install nltk
+```
+```
 pip install pandas
 ```
