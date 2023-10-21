@@ -57,5 +57,6 @@ pip3 install nltk
 ```
 pip install pandas
 ```
+<br>
 
-#### 3. Run the Training Notebook : Text_Sentiment_Analysis.ipynb
+## Run the Training Notebook : [Text_Sentiment_Analysis.ipynb](https://github.com/ajithAI/SentimentAnalysis/blob/master/Text_Sentiment_Analysis.ipynb)
