@@ -57,3 +57,5 @@ pip3 install nltk
 ```
 pip install pandas
 ```
+
+#### 3. Run the Training Notebook : Text_Sentiment_Analysis.ipynb
