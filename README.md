@@ -30,7 +30,7 @@
 
 <br>
 
-### Setup : 
+## Setup : 
 
 #### 1. Dowload the Dataset & Glove Matrix :
 ```
