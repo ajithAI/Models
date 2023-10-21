@@ -31,7 +31,7 @@
 <br>
 
 ## Setup : 
-
+<br>
 #### 1. Dowload the Dataset & Glove Matrix :
 ```
 wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz -O aclImdb_v1.tar.gz
