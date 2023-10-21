@@ -1,7 +1,6 @@
 # SentimentAnalysis
 
-### Dataset :
----
+## Dataset :
 ##### > Dataset Download Reference Link : http://ai.stanford.edu/~amaas/data/sentiment/
 ##### > Large Movie Review Dataset
 ##### > This Dataset contains 25,000 highly polar movie reviews for training, and 25,000 for testing.
@@ -24,12 +23,14 @@
 
 <br>
 
-### Training : 
+## Training : 
 ##### > Optimizer used for Training the Model : ADAM 
 ##### > Used default learning rate 
 ##### > Loss function : softmax_cross_entropy 
 
 <br>
+
+### Setup : 
 
 #### 1. Dowload the Dataset & Glove Matrix :
 ```
