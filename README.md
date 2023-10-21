@@ -13,9 +13,13 @@ wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz -O aclImdb_v
 ```
 tar -xvzf aclImdb_v1.tar.gz
 ```
+
 ```
 wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d.txt
-python3 -m pip install --upgrade pip
+```
+
+```
+python3 -m pip install --upgrade pip 
 pip3 install nltk
 pip install pandas
 ```
