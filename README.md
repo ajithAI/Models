@@ -1,13 +1,13 @@
 # SentimentAnalysis
 
-### Dataset :
+## Dataset :
 ##### > Dataset Download Reference Link : http://ai.stanford.edu/~amaas/data/sentiment/
 ##### > Large Movie Review Dataset
 ##### > This Dataset contains 25,000 highly polar movie reviews for training, and 25,000 for testing.
 
 <br> 
 
-### Pre-Processing : 
+## Pre-Processing : 
 ##### - Convert to Lower Case
 ##### - Removed Punctuations  
 ##### - Removed Extra Spaces 
@@ -17,7 +17,7 @@
 
 <br> 
 
-### Model : 
+## Model : 
 ##### > Simple 2 Layer LSTM Model implemented in Tensorflow 1.0 
 ##### > Dynamic RNN with LSTM Cell of Dimenssion 50 & Final Dense layer with 2 Units 
 
