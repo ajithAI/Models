@@ -5,7 +5,8 @@
 #### Large Movie Review Dataset
 #### This Dataset contains 25,000 highly polar movie reviews for training, and 25,000 for testing.
 
-<br></br>
+<br>
+
 #### Dowload the Dataset & Glove Matrix
 ```
 wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz -O aclImdb_v1.tar.gz
