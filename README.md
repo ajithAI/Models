@@ -32,8 +32,6 @@
 
 ## Setup : 
 
-<br>
-
 #### 1. Dowload the Dataset & Glove Matrix :
 ```
 wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz -O aclImdb_v1.tar.gz
@@ -48,7 +46,7 @@ wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d
 ```
 <br>
 
-####  2. Install other helper python modules
+####  2. Install other Python helper modules :
 
 ```
 python3 -m pip install --upgrade pip 
