@@ -51,7 +51,7 @@ wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d
 ```
 <br>
 
-####  2. Install Tensorflow > 2.0 and other Python helper modules : []()
+####  2. Install Tensorflow==1.15.0 and other Python helper modules : []()
 
 ```
 python3 -m pip install --upgrade pip
