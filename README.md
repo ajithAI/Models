@@ -23,8 +23,8 @@
 ## Model : []()
 ##### > Simple 2 Layer LSTM Model implemented in Tensorflow 1.0 []()
 ##### > Dynamic RNN with LSTM Cell of Dimenssion 50 & Final Dense layer with 2 Units []()
-##### > Total Num of Parameters : 
-##### > OPS per Word : 
+##### > Total Num of Parameters : []()
+##### > OPS per Word : []()
 
 <br>
 
@@ -66,9 +66,13 @@ pip install pandas
 
 ## Run the Training Notebook : [Text_Sentiment_Analysis.ipynb](https://github.com/ajithAI/SentimentAnalysis/blob/master/Text_Sentiment_Analysis.ipynb)
 
-## Metrics : 
-##### > Loss : 
-##### > Accuracy : 
-##### > Epochs : 
+<br>
+
+## Quality Metrics : []()
+##### > Loss : []()
+##### > Accuracy : []()
+##### > Epochs : []()
+
+<br>
 
 ## For Inference, look into the Notebook : [Text_Sentiment_Inference.ipynb]()
