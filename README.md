@@ -40,13 +40,7 @@
 #### 1. Dowload the Dataset & Glove Matrix : []()
 ```
 wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz -O aclImdb_v1.tar.gz
-```
-
-```
 tar -xvzf aclImdb_v1.tar.gz
-```
-
-```
 wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d.txt
 ```
 <br>
@@ -55,14 +49,8 @@ wget http://nlp.uoregon.edu/download/embeddings/glove.6B.50d.txt -O glove.6B.50d
 
 ```
 python3 -m pip install --upgrade pip
-```
-```
 pip3 install tensorflow
-```
-```
 pip3 install nltk
-```
-```
 pip install pandas
 ```
 <br>
